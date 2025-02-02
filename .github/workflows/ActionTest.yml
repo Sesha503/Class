@@ -1,4 +1,5 @@
 name: ActionTest
+on: push
 jobs:
   test:
     steps:
